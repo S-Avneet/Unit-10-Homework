@@ -11,10 +11,12 @@
 <br />
 
 **Elbow curve using original data**
+
 ![Alt text](Images/Image2_ElbowCurve.png)
 
 
 **Elbow curve using PCA data**
+
 ![Alt text](Images/Image4_ElbowCurve2.png)
 
 <br />
